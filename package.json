@@ -1,0 +1,8 @@
+{
+  "name": "spongebot",
+  "version": "1.0.0",
+  "description": "mocks users in spongebob meme format",
+  "main": "bot.js",
+  "author": "Nathaniel M. Chin",
+  "dependencies": {}
+}
